@@ -65,7 +65,7 @@ In order to run this project you need:
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/bernabasy/hello-rails-back-end1.git
+ git clone https://github.com/bernabasy/hello-rails-back-end.git
 ```
 
 - Navigate into the cloned folder
